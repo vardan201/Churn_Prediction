@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment folders (if created later)
+env/
+venv/
+ENV/
+.venv/
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm & VSCode settings
+.idea/
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Model and dataset artifacts (optional - uncomment if needed)
+# model.sav
+# first_telc.csv
+
+# Logs
+*.log
+
+# Other
+*.bak
