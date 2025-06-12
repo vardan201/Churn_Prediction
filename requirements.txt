@@ -1,0 +1,13 @@
+Flask==3.0.3
+pandas==2.2.3
+scikit-learn==1.6.1
+joblib==1.5.1
+numpy==2.3.0
+Werkzeug==3.0.6
+itsdangerous==2.2.0
+Jinja2==3.1.4
+python-dateutil==2.9.0.post0
+MarkupSafe==3.0.2
+xyzservices==2024.9.0
+yarl==1.18.3
+zstandard==0.23.0
